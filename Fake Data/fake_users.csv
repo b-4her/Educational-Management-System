@@ -1,0 +1,9 @@
+Full Name, Username, Account Type, Email Adress, password, Verification Question, VQ Answer
+
+David Malan, david, professor, david@prof.harvard.edu, davidcs50, What's my first course on edx?, CS50X
+Angela Yuu, angela, professor, angela@prof.harvard.edu, 100python, What's my 100 day bootcamp's language?, python
+Elon Musk, tesla, professor, musk@prof.harvard.edu, musktesla, What's my date of birth?, 1971-06-28
+
+Baher Alabbar, baher, student, baher@stu.harvard.edu, cs50project, How many days did took me to finish this project?, 5
+Anna Karenina, alexei, student, alexei@stu.harvard.edu, vronskyy, Who is my favourite child?, Seryozha
+Katniss Everdeen, gale, student, hungry@stu.harvard.edu, peetamellark, My biggest regret?, That I didn't eat the cranberries
