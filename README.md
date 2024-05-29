@@ -18,6 +18,9 @@ To install the Educational Management System, follow these steps:
 
 ## Usage
 The usage part doesn't need to be explained. It's just a normal console project that users can run and sign up.
+**Note:** In some cases, the Control+C shortcut to navigate back to the previous page may not work properly, 
+requiring multiple clicks. If you encounter this issue, try clicking it several times until it functions correctly.
+
 
 ## Technologies Used
 - Python
