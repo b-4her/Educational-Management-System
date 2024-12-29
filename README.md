@@ -1,14 +1,42 @@
 # Educational Management System
 #### Video Demo:  <[URL](https://youtu.be/GC_tZgSSwwM) HERE>
+
 ## Overview
-The Educational Management System is all about making things easier for students and professors. Through a central portal called the Main Menu, users can manage their accounts and handle courses hassle-free. The system ensures security and privacy by checking email addresses and generating unique IDs for each user. Professors can effortlessly handle courses and assignments, while students can enroll in courses, submit assignments, and manage their profiles with ease. The Main Menu portal offers account creation and login options, with email validation and security questions for added safety. Professors can create courses, manage assignments, and grade submissions, while students can enroll, submit work, and withdraw from courses as needed.
+The **Educational Management System** is a simple, console-based project that I developed as part of my learning journey. 
+It provides a central portal, called the **Main Menu**, where users can manage accounts and courses with basic functionality. 
+The focus of this project was to practice coding skills, especially object-oriented programming, 
+and learn how to handle common challenges in software development.
 
-## Problems Faced
-Throughout the project's development, we faced various challenges, each demanding unique solutions to ensure smooth operation. Initially, we encountered the EOFError, causing sudden crashes during page transitions. It took thorough investigation to realize we needed to implement a Try Except EOFError mechanism to handle this issue effectively.
+## Key Features
+### For Students
+- Enroll in courses, submit assignments, and manage profiles.  
+- Withdraw from courses when necessary.  
 
-Another significant challenge arose with the logout feature, leading users to unintended pages upon selection. This was due to the complex interconnection of pages, emphasizing the need for better planning. Despite identifying the problem late, revamping the logout mechanism by opting for a complete application shutdown resolved the issue.
+### For Professors
+- Create and manage courses.  
+- Assign and grade student submissions.  
 
-Despite our efforts, we struggled with the Control+C shortcut's functionality to navigate back to the previous page. Sometimes, it led to traversing multiple pages or encountered intermittent failures, indicating potential flaws in the project's structure. Although a perfect solution remained elusive, completing the project after approximately 40 hours of intensive work over five days taught me invaluable lessons.
+### Account Management
+- Simple account creation and login system with email validation.  
+- Profile management options for both students and professors.  
+
+## Challenges and Solutions  
+As a beginner project, I faced several challenges that required problem-solving:  
+
+1. **EOFError Handling**  
+   I encountered an **EOFError** that caused crashes during page transitions. Adding a `try-except` block solved the issue and ensured smoother transitions.  
+
+2. **Logout Mechanism**  
+   Initially, the logout feature would redirect users to unintended pages. I fixed this by modifying the logic to shut down the application entirely upon logout.  
+
+3. **Control+C Shortcut Issues**  
+   I attempted to use **Control+C** to let users navigate back to the previous page. However, this feature was inconsistent and sometimes caused unexpected behavior.
+   While I couldn’t fully resolve this issue, it was a great learning experience.  
+
+## Lessons Learned  
+I completed this project in about 40 hours over five days. While it’s not a professional-grade system, 
+it helped me improve my understanding of Python, error handling, and basic application structure. 
+It also taught me the importance of careful planning and testing to avoid structural issues in the code.    
 
 ## Installation
 To install the Educational Management System, follow these steps:
@@ -20,7 +48,6 @@ To install the Educational Management System, follow these steps:
 The usage part doesn't need to be explained. It's just a normal console project that users can run and sign up.
 **Note:** In some cases, the Control+C shortcut to navigate back to the previous page may not work properly, 
 requiring multiple clicks. If you encounter this issue, try clicking it several times until it functions correctly.
-
 
 ## Technologies Used
 - Python
