@@ -1,5 +1,5 @@
 # Educational Management System
-#### Video Demo:  <[URL](https://youtu.be/GC_tZgSSwwM) HERE>
+#### Video Demo:  <URL [HERE](https://youtu.be/GC_tZgSSwwM)>
 
 ## Overview
 The **Educational Management System** is a simple, console-based project that I developed as part of my learning journey. 
