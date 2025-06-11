@@ -1,4 +1,4 @@
-# Educational Management System
+# Educational Management System (CLI)
 #### Video Demo:  <URL [HERE](https://youtu.be/GC_tZgSSwwM)>
 
 ## Overview
